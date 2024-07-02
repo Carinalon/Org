@@ -147,7 +147,7 @@ function App() {
       return colaborador
     })
     actualizarColaboradores(colaboradoresActualizados)
-git
+
   }
 
   return (
